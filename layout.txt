@@ -1,0 +1,11 @@
+Header
+    Logo
+    Nav
+Body
+    Search
+    ResturantContainer
+        ResurantCard
+Footer
+    Copyright
+    Links
+    Company Name / Address / Contact 
