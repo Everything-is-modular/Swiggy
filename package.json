@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "styled-components": "^6.1.14"
   },
   "browserslist": [
     "last 2 versions"
